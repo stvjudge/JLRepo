@@ -1,5 +1,10 @@
 Name, Alias, Power
 Clark Kent, Superman, All
 Bruce Wayne, Batman, Rich
+<<<<<<< HEAD
 Victor Stone, Cyborg, Hacking
 Diana Prince, Wonder Woman, Strength
+=======
+Diana Prince, Wonder Woman, Strength
+Barry Allen, Flash, Speed
+>>>>>>> 884e693 (Added The Flash)
